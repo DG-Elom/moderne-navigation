@@ -1,0 +1,19 @@
+:root {
+  --boby-bg: #123;
+  --nav-bg: rgb(69, 92, 115);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: system-ui;
+}
+
+body {
+  margin: 0;
+  font-size: 1.25rem;
+  background: var(--boby-bg);
+  color: white;
+}
